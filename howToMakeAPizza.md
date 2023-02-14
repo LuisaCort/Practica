@@ -1,10 +1,11 @@
-lista de ingredientes
+# Pizza
+## lista de ingredientes John Correa
 1. harina  400 gramos
 2. agua tibia 200 mililitros
 3. levadura fresca 15 gramos
 4. sal 1 pizca
 
-# Luisa Receta Pizza
+## Receta Pizza Luisa 
 
 1. prepara los ingredientes 
 2. mezclar los ingredientes secos (en polvo)
@@ -18,3 +19,8 @@ lista de ingredientes
 10. agregar otra capa fina de queso 
 11. meter al horno
 12. final mente te la podrás comer y compartir con quien quieras 
+
+## Receta Pizza Ricardo Coronado
+1. Compra ingredientes
+2. ver receta
+3. empezar a cocinar la pizza
